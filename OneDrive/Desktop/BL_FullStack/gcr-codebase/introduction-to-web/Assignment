@@ -1,4 +1,4 @@
-1.Develops server-side logic.
+Develops server-side logic.
 Uses Java, Python, Node.js, PHP, etc.
 
 Full-Stack Development-
@@ -41,25 +41,25 @@ Uses frontend and backend technologies.
 
 3. 
 User enters a website URL.
--Browser finds the website's IP address using DNS.
--Browser sends an HTTP request to the web server.
--Server processes the request.
--Server retrieves data from the database if needed.
--Server sends HTML, CSS, and JavaScript files.
--Browser renders the webpage.
--User sees the webpage on the screen
+>Browser finds the website's IP address using DNS.
+>Browser sends an HTTP request to the web server.
+>Server processes the request.
+>Server retrieves data from the database if needed.
+>Server sends HTML, CSS, and JavaScript files.
+>Browser renders the webpage.
+>User sees the webpage on the screen
 
 4. 
  Tool                   Purpose                           
 
- VS Code              | Code editor                       
- Google Chrome        | Test web pages                    
- Git                  |  Version control                   
- GitHub               |  Store source code online          
- Node.js              |  JavaScript runtime                
- npm                  |  Package manager                   
- Live Server Extension|  Automatically refreshes web pages 
- Terminal             |  Executes commands                 
+ VS Code               Code editor                       
+ Google Chrome         Test web pages                    
+ Git                    Version control                   
+ GitHub                 Store source code online          
+ Node.js                JavaScript runtime                
+ npm                    Package manager                   
+ Live Server Extension  Automatically refreshes web pages 
+ Terminal               Executes commands                 
 
 5. 
 A Web Server is software that receives HTTP requests from clients (browsers) and sends back web pages or data.
@@ -89,10 +89,10 @@ Database Administrator (DBA) -
 >Optimizes database performance
 
 7. Steps-
-8. Download Visual Studio Code.
-9. Install VS Code.
-10. Install Google Chrome.
-11. Install extensions:
+1. Download Visual Studio Code.
+2. Install VS Code.
+3. Install Google Chrome.
+4. Install extensions:
       Live Server
       Prettier
       HTML CSS Support
@@ -145,4 +145,5 @@ Differences:
            HTTP Response
                  |
                  v
-            Web Browser
+            Web Browser    
+      
