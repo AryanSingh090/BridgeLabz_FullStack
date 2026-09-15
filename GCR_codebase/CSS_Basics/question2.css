@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color: #eee;
+    color: #222;
+}
+
+header {
+    padding: 25px;
+    text-align: center;
+    background-color: #263238;
+    color: white;
+}
+
+nav a {
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+}
+
+section {
+    min-height: 100vh;
+    padding: 100px 12%;
+    border-bottom: 8px solid white;
+}
+
+section h2 {
+    margin-bottom: 30px;
+}
+
+.history {
+    background: linear-gradient(135deg, #ffe082, #ff8a65);
+    background-attachment: fixed;
+}
+
+.culture {
+    background: radial-gradient(circle, #b2ebf2, #4dd0e1);
+    padding-top: 150px;
+}
+
+.places {
+    background-color: #c5e1a5;
+    background-image: url("https://picsum.photos/1200/800");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+
+.history h2 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.culture h2 {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.places h2 {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+footer {
+    padding: 25px;
+    text-align: center;
+    background-color: #263238;
+    color: white;
+}
